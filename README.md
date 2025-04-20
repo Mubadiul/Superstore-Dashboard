@@ -1,5 +1,5 @@
-### **Dashboard - Superstore Analaysis**
-**Tableau Public:** [Superstore Dashboard.twbx](https://public.tableau.com/shared/Z39698XKP?:display_count=n&:origin=viz_share_link)
+# **Dashboard - Superstore Analaysis**
+## **Tableau Public:** [Superstore Dashboard.twbx](https://public.tableau.com/shared/Z39698XKP?:display_count=n&:origin=viz_share_link)
 
 ![superstore-dashboard](https://github.com/user-attachments/assets/ae16d4c9-73f6-458b-8ce5-0b3413e91fe3)
 
